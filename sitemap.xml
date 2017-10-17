@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://kkaurblogs.com/post/chapter-2/</loc>
+    <lastmod>2017-10-16T00:41:27-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://kkaurblogs.com/post/chapter-1/</loc>
     <lastmod>2017-10-05T00:41:27-07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -16,21 +23,21 @@
   </url>
   
   <url>
-    <loc>http://kkaurblogs.com/</loc>
-    <lastmod>2017-10-05T00:41:27-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://kkaurblogs.com/post/</loc>
-    <lastmod>2017-10-05T00:41:27-07:00</lastmod>
+    <lastmod>2017-10-16T00:41:27-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://kkaurblogs.com/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kkaurblogs.com/</loc>
+    <lastmod>2017-10-16T00:41:27-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>

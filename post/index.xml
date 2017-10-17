@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on New Features of Javascript</title>
+    <title>Posts on Useful Blogs For Developers</title>
     <link>http://kkaurblogs.com/post/</link>
-    <description>Recent content in Posts on New Features of Javascript</description>
+    <description>Recent content in Posts on Useful Blogs For Developers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Oct 2017 00:41:27 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 16 Oct 2017 00:41:27 -0700</lastBuildDate>
     
 	<atom:link href="http://kkaurblogs.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>PHP Frameworks</title>
+      <link>http://kkaurblogs.com/post/chapter-2/</link>
+      <pubDate>Mon, 16 Oct 2017 00:41:27 -0700</pubDate>
+      
+      <guid>http://kkaurblogs.com/post/chapter-2/</guid>
+      <description>In this blog, I am going to compare two major frameworks of PHP. I will discuss their features, similarities and differences that will help you to decide which one can be the best according to your requirements. This blog post describe the features of both symfony and laravel PHP frameworks.
+PHP PHP is the most popular programming language in era of development. It is a Server-side language and Release of PHP 7 made this more better and stable.</description>
+    </item>
     
     <item>
       <title>Javascript</title>

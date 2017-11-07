@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Useful Blogs For Developers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Oct 2017 00:41:27 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 06 Nov 2017 00:41:27 -0700</lastBuildDate>
     
 	<atom:link href="http://kkaurblogs.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arrow functions and classes in javascript</title>
+      <link>http://kkaurblogs.com/post/chapter-3/</link>
+      <pubDate>Mon, 06 Nov 2017 00:41:27 -0700</pubDate>
+      
+      <guid>http://kkaurblogs.com/post/chapter-3/</guid>
+      <description>JavaScript’s new features have been making the web development easier and provide clean code to developers that is being helpful for them. In this blog post, I will explain two new features arrow functions and classes in ES6 in detail. This blog post will be helpful for you.
+Arrow Functions ES6 has introduced a number of new features to make web development easy and better. Arrow functions provide concise syntax for code that make code writing easy.</description>
+    </item>
     
     <item>
       <title>PHP Frameworks</title>
